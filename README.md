@@ -90,8 +90,9 @@ pip install -r requirements.txt
 python manage.py runserver
 
 📚** Future Enhancements**
-Adding support for more machine learning models for comparison.
 
-Implement better real-time analytics dashboards.
+1.Adding support for more machine learning models for comparison.
 
-Integrate with environmental sensors for automatic data input.
+2.Implement better real-time analytics dashboards.
+
+3.Integrate with environmental sensors for automatic data input.
