@@ -25,19 +25,19 @@ To build a structured and interactive platform that:
 
 ## 🧠 System Modules
 
-1. Admin Panel  
+**1. Admin Panel ** 
    Uploads requirements, manages registrations, and validates reports.
 
-2. Fluroscan 
+**2. Fluroscan **
    Calculates % of PFAS and fluorine from input materials.
 
-3. Decompoenergy  
+3.** Decompoenergy ** 
    Computes moles of C-F bonds and required energy for breakdown.
 
-4. Fluroreclaim  
+**4. Fluroreclaim ** 
    Analyzes recovery efficiency and recovered fluorine amount.
 
-5. Purecheck  
+**5. Purecheck**  
    Applies `DecisionTreeRegressor` to predict the final purified fluorine percentage.
 
 ---
@@ -89,7 +89,7 @@ pip install -r requirements.txt
 5.Run the Django server:
 python manage.py runserver
 
-📚 Future Enhancements
+📚** Future Enhancements**
 Adding support for more machine learning models for comparison.
 
 Implement better real-time analytics dashboards.
